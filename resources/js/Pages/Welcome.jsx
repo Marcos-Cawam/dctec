@@ -5,7 +5,7 @@ export default function Welcome({ canLogin, canRegister }) {
 
     return (
         <>
-            <Head title="Bem Vindo" />
+            <Head title="ola" />
             <div className="min-h-screen bg-white">
                 <nav className="border-b border-gray-100 bg-white shadow-md">
                     <div className="mx-auto flex h-16 max-w-7xl items-center justify-end gap-4 px-4 sm:px-6 lg:px-8">
